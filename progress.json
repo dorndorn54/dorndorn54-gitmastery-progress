@@ -106,5 +106,14 @@
       "You are missing the 'january-update' tag."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1769839143.053622,
+    "completed_at": 1769839144.712452,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
   }
 ]
